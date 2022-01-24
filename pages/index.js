@@ -1,5 +1,5 @@
 import Navbar from '../components/Navbar/Navbar';
-import Main from '../components/home/main';
+import Main from '../components/home/Main';
 import Slide from '../components/home/Slide';
 
 export default function Home() {
