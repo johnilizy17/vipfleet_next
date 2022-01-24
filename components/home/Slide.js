@@ -34,6 +34,7 @@ export default function Slide() {
             <Carousel
                 showStatus={false}
                 showArrows={false}
+                showThumbs={false}
                 autoPlay={true}
                 infiniteLoop={true}
             >
